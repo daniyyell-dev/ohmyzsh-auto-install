@@ -15,7 +15,7 @@ This script installs Zsh along with Oh My Zsh and popular plugins in a single st
 
 ## Usage
 
-1. Download the script:
+1. Download the script and run:
 
 ```bash
-curl -O https://your-server.com/install_zsh_full.sh
+bash <(curl -s https://raw.githubusercontent.com/daniyyell-dev/ohmyzsh-auto-install/main/install.sh)
